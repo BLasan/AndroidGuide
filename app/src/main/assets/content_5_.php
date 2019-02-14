@@ -165,7 +165,7 @@ h4 style="color:blue">Where can you get the latest SDK version</h4>
 
 </div>
 </div>
-<div class="jumbotron jumbotron-fluid" style="background-color:black;text-color:grey;">
+<div class="jumbotron jumbotron-fluid" style="background-color:black;text-color:grey;margin-bottom:0 !important">
   <div class="container">
     <p class="lead">email-benuraab@gmail.com.</p>
     <p class="lead">Contact-+94713405414</p>

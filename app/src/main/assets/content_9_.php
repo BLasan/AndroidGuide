@@ -231,7 +231,7 @@ then click the Get Started tutorial to connect to Firebase and add the necessary
 <img src="pics/Capture18.PNG" alt="code snippets" width="100%" height="auto"/>
 </div>
 </div>
-<div class="jumbotron jumbotron-fluid" style="background-color:black;text-color:grey;">
+<div class="jumbotron jumbotron-fluid" style="background-color:black;text-color:grey;margin-bottom:0 !important">
   <div class="container">
     <p class="lead">email-benuraab@gmail.com.</p>
     <p class="lead">Contact-+94713405414</p>
